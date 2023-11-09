@@ -162,7 +162,7 @@
         height: 55%;
     }
     .second{
-        margin-left: -10px;
+        margin-left: -60px;
     }
     .box{
         display: inline-grid;
@@ -177,7 +177,7 @@
 }
 @media screen and (max-width:300px) {
     .second{
-        margin-left: -57px;
+        margin-left: -65px;
     }
 }
 /* .one{
